@@ -6,7 +6,7 @@ package au.com.amit.poker.app;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-import au.com.amit.poker.domain.service.PokerService;
+import au.com.amit.poker.service.PokerService;
 
 /**
  * @author Amit Solankurkar

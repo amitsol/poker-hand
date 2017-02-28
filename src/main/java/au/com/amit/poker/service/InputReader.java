@@ -1,4 +1,4 @@
-package au.com.amit.poker.domain.service;
+package au.com.amit.poker.service;
 
 import java.io.BufferedReader;
 import java.io.File;
